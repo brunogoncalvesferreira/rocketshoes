@@ -28,10 +28,6 @@ O layout da aplicação:
   <img alt="preview" title="preview" src=".github/preview-mobile.png" width="600px">
 
 </p>
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="preview" title="preview" src=".github/preview3.png" width="600px">
-
-</p>
 
 ---
 
