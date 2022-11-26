@@ -29,7 +29,7 @@ O layout da aplicação:
 
 </p>
 
-<a href="https://rocketseat-blog.netlify.app/">Link da aplicação online</a>
+<a href="https://rocketseat-shoes.netlify.app/">Link da aplicação online</a>
 
 ---
 
