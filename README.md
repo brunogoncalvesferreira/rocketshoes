@@ -31,37 +31,6 @@ O layout da aplicação:
 
 ---
 
-## 🚀 Como executar o projeto
-
-Este projeto é divido em uma parte:
-
-1 . Frontend
-
-### Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com).
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-
-#### 🎲 Rodando o Frontend
-
-```bash
-
-# Clone este repositório
-$ git clone https://github.com/brunogoncalvesferreira/rocketshoes.git
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd rocketshoes
-
-# Execute a aplicação
-$ Instale a extensão LiveServer no VSCode.
-$ Botão direito do mouse no arquivo index.html, clicar em liverserver. Irá abrir no seu navegador a aplicação.
-
-
-```
-
----
-
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
